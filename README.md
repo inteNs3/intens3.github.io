@@ -1,2 +1,5 @@
 # arkanoid
-processing.js arkanoid-style game
+simple arkanoid-style game coded using processing.js
+
+# live demo
+http://raizen.pro/arkanoid/
